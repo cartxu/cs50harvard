@@ -1,4 +1,4 @@
-#CS50's Web Programming with Python and Javascript
+# CS50's Web Programming with Python and Javascript
 
 Here you can find my projects for the Harvard's course "CS50's Web Programming with Python and Javascript".
 
