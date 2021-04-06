@@ -8,6 +8,6 @@ Here you can find my projects for the Harvard's course "CS50's Web Programming w
 4. [Wikipedia](https://github.com/cartxu/wikipage) and [video](https://www.youtube.com/watch?v=L8a4by6LURU)
 5. [Mail](https://github.com/cartxu/mail) and [video](https://youtu.be/1ZvmbUTGFBo)
 
-And the "best" part!!!! :D
+And...finally!!!! :D
 
 <img src="https://certificates.cs50.io/9bba610b-fe8f-4a90-9fca-376304126e60.png">
